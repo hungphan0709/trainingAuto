@@ -21,7 +21,7 @@ style: |
 <!-- _class: lead -->
 <!-- _paginate: skip -->
 
-# 🎓 Đào Tạo Automation Testing
+# 🎓 Đào Tạo Automation Testing 
 
 ## **Buổi 1**
 # Tổng quan Mô hình<br>Phối hợp Auto – Manual
