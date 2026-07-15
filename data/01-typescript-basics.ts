@@ -10,7 +10,7 @@
 // ═══════════════════════════════════════════════════════════
 // 1. KIỂU STRING (chuỗi văn bản)
 // ═══════════════════════════════════════════════════════════
-const customerName: string = 'Nguyễn Văn A';
+const customerName: string = '10000';
 const merchantCode: string = 'TEST_ONEPAY';
 const bankCode: string = 'VCB';
 const transactionRef: string = 'PAY20260630001';
