@@ -1,3 +1,2 @@
-const x:string = 'hello';
-x = 'world';
-console.log(x);
+const test:number = 170000
+console.log(test)
