@@ -2,7 +2,7 @@ import { defineConfig } from '@playwright/test';
 
 export default defineConfig({
   testDir: './tests',
-  timeout: 30000,                     // Timeout mỗi test: 30 giây
+  timeout: 3000,                     // Timeout mỗi test: 30 giây
   retries: 0,                          // Số lần chạy lại khi fail (0 = không retry)
   use: {
     headless: false,                   // false = hiển thị browser, true = ẩn
