@@ -15,7 +15,7 @@ export const datatest : LoginCase [] = [
   expectedResult :'fail nhé',
 },
 {
-  username :'tomsmith',
+  username :'',
   password :'SuperSecret',
   expectedResult :'fail nhé',
 }
