@@ -6,7 +6,7 @@ export type LoginCase = {
 export const datatest : LoginCase [] = [
   {
   username :'tomsmith',
-  password :'SuperSecret',
+  password :'SuperSecretPassword!',
   expectedResult :'Pass nhé',
 },
 {
